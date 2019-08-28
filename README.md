@@ -22,6 +22,15 @@
 |title|hash string，term空格分割|3 9 120|
 |label|int, 取值{0, 1}|0|
 
+
+## 其他方案
+* [第4名-Fah](https://github.com/ZanyFun9/2019BDC_solution_4th)
+* [第5名-拯救菜鸟](https://github.com/LiuYaKu/2019-rank5)
+* [第9名-bestfitting](https://github.com/tinySean/bdc2019-rank9th)
+* [第11名-lili](https://github.com/harrylyx/2019BigDataChallenge)
+* [第12名-福建大三本](https://github.com/leadert/BDC2019-Rank12th-lgb-esim)
+* [第15名-改革春风吹满地](https://github.com/P01son6415/MatchModels)
+
 ------------------
 
 感兴趣就给个star吧:-D
