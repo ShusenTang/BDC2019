@@ -24,6 +24,7 @@
 
 
 ## 其他方案
+* [第2名 蜗牛本牛](https://github.com/srtianxia/BDC2019_Rank2)
 * [第4名-Fah](https://github.com/ZanyFun9/2019BDC_solution_4th)
 * [第5名-拯救菜鸟](https://github.com/LiuYaKu/2019-rank5)
 * [第9名-bestfitting](https://github.com/tinySean/bdc2019-rank9th)
