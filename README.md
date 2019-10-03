@@ -22,6 +22,8 @@
 |title|hash string，term空格分割|3 9 120|
 |label|int, 取值{0, 1}|0|
 
+> **注意：提供的样本示例`train_data.sample`仅为帮助理解赛题以及调通代码，由于样本示例仅为两万行，因此构造的出来的特征意义不大（数据严重泄露）。**
+
 
 ## 其他方案
 * [第2名-蜗牛本牛](https://github.com/srtianxia/BDC2019_Rank2)
